@@ -1,0 +1,12 @@
+.table-list-item {
+  font-size: 1.25rem;
+  line-height: 35px;
+}
+
+div {
+  text-align: center
+}
+
+td {
+  width: 20%;
+}

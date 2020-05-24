@@ -1,0 +1,9 @@
+.marg {
+  max-width: 60%;
+  max-height: 60%;
+  margin-left: 20%;
+  display: table;
+  position: absolute;
+  top: 0;
+  left:0
+}

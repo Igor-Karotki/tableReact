@@ -1,0 +1,9 @@
+.search-salary {
+  margin: 1rem 0;
+}
+
+.search-salary .search-input {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}

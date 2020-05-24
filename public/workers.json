@@ -1,0 +1,42 @@
+[
+  {
+   "id": "1",
+   "imie": "Jan",
+   "nazwisko": "Kowalski",
+   "dzial": "IT",
+   "wynagrodzenieKwota": "3000",
+   "wynagrodzenieWaluta": "PLN"
+  },
+  {
+   "id": "2",
+   "imie": "Anna",
+   "nazwisko": "Bąk",
+   "dzial": "Administracja",
+   "wynagrodzenieKwota": "2400.50",
+   "wynagrodzenieWaluta": "PLN"
+  },
+  {
+   "id": "3",
+   "imie": "Paweł",
+   "nazwisko": "Zabłocki",
+   "dzial": "IT",
+   "wynagrodzenieKwota": "3300",
+   "wynagrodzenieWaluta": "PLN"
+  },
+  {
+   "id": "4",
+   "imie": "Tomasz",
+   "nazwisko": "Osiecki",
+   "dzial": "Administracja",
+   "wynagrodzenieKwota": "2100",
+   "wynagrodzenieWaluta": "PLN"
+  },
+  {
+   "id": "5",
+   "imie": "Iwona",
+   "nazwisko": "Leihs-Gutowska",
+   "dzial": "Handlowiec",
+   "wynagrodzenieKwota": "3100",
+   "wynagrodzenieWaluta": "PLN"
+  }
+]
